@@ -1,6 +1,6 @@
 ### 👋 About Me
 Hi there! I'm a **Backend Developer** passionate about building **scalable, secure, and high-performance APIs**.  
-I work mainly with **TypeScript, Node.js, Express.js, NestJS, MongoDB and PostgreSQL**, focusing on writing **clean, type-safe, and maintainable backend services**.  
+I work mainly with **TypeScript, Node.js, Express.js, Nest.js, MongoDB and PostgreSQL**, focusing on writing **clean, type-safe, and maintainable backend services**.  
 
 ### 🚀 Current Projects
 🔗 [**Melketabriz**](https://melketabriz.com/): A Tabriz-based real estate platform specializing in property listings and real estate consulting.  
